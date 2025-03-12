@@ -1,0 +1,20 @@
+flip_idx:
+- 0
+- 1
+- 2
+- 3
+kpt_shape:
+- 4
+- 3
+names:
+- Xray_tooth
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: tooth-xray-second-worke
+  url: https://universe.roboflow.com/abdul-aziz-dgqpw/tooth-xray-second-worke/dataset/1
+  version: 1
+  workspace: abdul-aziz-dgqpw
+test: ../test/images
+train: ../train/images
+val: ../valid/images

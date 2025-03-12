@@ -1,0 +1,22 @@
+flip_idx:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+kpt_shape:
+- 6
+- 3
+names:
+- points
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: tooth-x-ray-zf9da
+  url: https://universe.roboflow.com/abdul-aziz-dgqpw/tooth-x-ray-zf9da/dataset/1
+  version: 1
+  workspace: abdul-aziz-dgqpw
+test: F:\ready model to testing\Tooth-X-Ray-1\test\images
+train: F:\ready model to testing\Tooth-X-Ray-1\test\images
+val: F:\ready model to testing\Tooth-X-Ray-1\test\images
